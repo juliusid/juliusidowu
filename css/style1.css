@@ -388,7 +388,7 @@ img:hover{
 
 .abt_img{
     /* border: 3px solid yellow; */
-    height: 90vh;
+    height: 50%;
     width: 45%;
     justify-self: center;
 }
@@ -1516,7 +1516,7 @@ textarea{
     }
     
     .abt_img > img{
-        height: 100%;
+        height: 50%;
         width: 100%;
         object-fit: cover;
         overflow: hidden;
